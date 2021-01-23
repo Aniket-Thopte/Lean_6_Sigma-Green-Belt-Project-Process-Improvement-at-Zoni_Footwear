@@ -21,7 +21,7 @@ Leon (Guanajuato) and the second in Guadalajara (Jalisco).
 ## X-Y Matrix
 ![alt-text](img/2.png)
 
-## X_Bar & S Control Chart
+## X_Bar & S Control Chart - using MINITAB
 ![alt-text](img/xschart.png)
 
 ## Ordered Histogram
