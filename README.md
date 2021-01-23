@@ -1,7 +1,7 @@
 # Lean 6σ Green Belt Project: Process Improvement at Zoni Footwear Company using DMAIC Approach
 
 #
-![alt-text](6sigma.gif)
+![alt-text](img/6sigma.gif)
 
 # Company Background:
 - Zoni Footwear designs and manufactures athletic shoes with two factories in Mexico. One is located in
