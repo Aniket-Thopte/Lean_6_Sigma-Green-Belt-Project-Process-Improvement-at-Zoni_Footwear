@@ -31,4 +31,4 @@ Leon (Guanajuato) and the second in Guadalajara (Jalisco).
 ![alt-text](img/4.PNG)
 
 ## Linear Regression Output for Workforce Training vs. Product Quality Comparison
-![alt-text](img/5.PNG)
+![alt-text](img/5.png)
